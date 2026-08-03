@@ -99,16 +99,16 @@ s.close()
 ```
 ## OUTPUT
 
-server.py
-
-
-
-
-
-
-
-
-
+server.py <br>
+<img width="1071" height="186" alt="image" src="https://github.com/user-attachments/assets/f87aefa7-de01-4430-8231-b662649d3ac7" /> <br>
+client.py <br>
+<img width="915" height="131" alt="image" src="https://github.com/user-attachments/assets/5fbc82b1-c5d2-4aea-a76c-5db6a380263a" /> <br>
+ipconfig <br>
+<img width="1140" height="827" alt="image" src="https://github.com/user-attachments/assets/aa0dd9ad-10e6-4438-93bc-6ae36cb9f3bc" /> <br>
+ping <br>
+<img width="1145" height="846" alt="image" src="https://github.com/user-attachments/assets/60b5c753-764a-4039-a796-c6519fd21f34" /> <br>
+tracert <br>
+<img width="1022" height="418" alt="image" src="https://github.com/user-attachments/assets/fc330e79-2f5f-4ae4-bbd3-85382859b8b5" />
 
 
 ## Result
